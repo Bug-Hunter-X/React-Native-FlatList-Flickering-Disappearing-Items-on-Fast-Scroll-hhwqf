@@ -1,0 +1,1 @@
+This bug occurs when using the FlatList component in React Native with a large dataset. The issue is that when the FlatList is scrolled quickly, the items start to flicker or disappear. This can be a very frustrating issue for users, as it can make the app feel unstable and unreliable.
